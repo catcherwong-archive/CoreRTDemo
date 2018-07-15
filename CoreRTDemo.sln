@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebAPI", "MyWebAPI\MyWebAPI.csproj", "{32FD2E6A-EED4-451A-8B3B-557F6B18138C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{62DD3BD6-961D-4506-A6E9-C6E0DB81D287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32FD2E6A-EED4-451A-8B3B-557F6B18138C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FD2E6A-EED4-451A-8B3B-557F6B18138C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FD2E6A-EED4-451A-8B3B-557F6B18138C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FD2E6A-EED4-451A-8B3B-557F6B18138C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DD3BD6-961D-4506-A6E9-C6E0DB81D287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DD3BD6-961D-4506-A6E9-C6E0DB81D287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DD3BD6-961D-4506-A6E9-C6E0DB81D287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DD3BD6-961D-4506-A6E9-C6E0DB81D287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
